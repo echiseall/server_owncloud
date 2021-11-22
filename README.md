@@ -10,10 +10,15 @@ vim .env
 
 ""
 OWNCLOUD_VERSION=10.8
+
 OWNCLOUD_DOMAIN=localhost:80
+
 ADMIN_USERNAME=usuario
+
 ADMIN_PASSWORD=contrasena
+
 HTTP_PORT=80
+
 ""
 
 3. Poner en marcha el container
