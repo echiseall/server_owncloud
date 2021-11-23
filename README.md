@@ -28,7 +28,7 @@ docker-compose up -d
 
 4. Comprobar que todos los contenedores se han iniciado correctamente
 
-docker ps
+docker-compose ps
 
 5. Deberá ver una salida similar a la siguiente:
 
