@@ -28,6 +28,7 @@ HTTP_PORT=80
 "
 
 3. Poner en marcha el container
+
 docker-compose up -d
 
 4. Comprobar que todos los contenedores se han iniciado correctamente
