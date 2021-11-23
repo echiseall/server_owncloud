@@ -1,4 +1,8 @@
 BIENVENIDO
+Welcome to ownCloud: your self-hosted file sync and share solution.
+
+ownCloud is an open source file sync and share software for everyone from individuals operating the free ownCloud Server edition, to large enterprises and service providers operating the ownCloud Enterprise Subscription. ownCloud provides a safe, secure, and compliant file synchronization and sharing solution on servers that you control.
+
 
 1. Clonar el directorio server_owncloud del repositorio GitHub
 
