@@ -1,7 +1,8 @@
 BIENVENIDO
-Welcome to ownCloud: your self-hosted file sync and share solution.
+ownCloud es un software de sincronización e intercambio de archivos de manera segura, en servidores que controlamos, en nuestro caso de forma local.
+Se pueden compartir archivos y carpetas y sincronizarlas con el servidor de ownCloud y disponer de ellas/os en el cliente de sincronización para escritorio o aplicaciones para Android o iOS.
 
-ownCloud is an open source file sync and share software for everyone from individuals operating the free ownCloud Server edition, to large enterprises and service providers operating the ownCloud Enterprise Subscription. ownCloud provides a safe, secure, and compliant file synchronization and sharing solution on servers that you control.
+Con este archivo de docker-compose, preparamos de cero un ambiente con containers que contienen todos los servicios para que ownCloud funcione y preste servicio web local.
 
 
 1. Clonar el directorio server_owncloud del repositorio GitHub
