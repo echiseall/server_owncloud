@@ -1,4 +1,5 @@
 BIENVENIDO
+
 ownCloud es un software de sincronización e intercambio de archivos de manera segura, en servidores que controlamos, en nuestro caso de forma local.
 Se pueden compartir archivos y carpetas y sincronizarlas con el servidor de ownCloud y disponer de ellas/os en el cliente de sincronización para escritorio o aplicaciones para Android o iOS.
 
